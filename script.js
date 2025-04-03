@@ -1,5 +1,5 @@
 document.getElementById('runSimulation').addEventListener('click', runSimulation);
-        
+
 function runSimulation() {
     // Get input values
     const referenceString = document.getElementById('referenceString').value
